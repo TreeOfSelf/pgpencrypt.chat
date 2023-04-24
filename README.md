@@ -28,3 +28,6 @@ Otherwise just host the client through any web server.
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1070456465875275887/1099157253250093158/image.png)
 
+
+## Credits
+By Sebastian Tiffany Isaiah 
