@@ -8,7 +8,7 @@ Try it live: https://pgpencrypt.chat
 
 ## Features
 
-- Server never sees your keys or passwords
+- Server never sees your private keys, passwords, or any of the data your transfer
 - Password protected .key file 
 - Use PGP encryption easily
 - Safe and Secure
