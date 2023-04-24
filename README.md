@@ -17,6 +17,10 @@ Try it live: https://pgpencrypt.chat
 - Chat securely
 - Emoji hash, easily spot out impersonators 
 
+## Recommendations
+
+To use PGPencrypt chat securely, please run through TOR browser and use only on a 100% uncompromised clean install of a Linux based operating system, like Tails.
+
 ## Deployment
 
 If  you plan on hosting your own server, run the server in node.js after installing dependancies. You will need to create a private key and public certificate for SSL. 
