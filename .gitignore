@@ -10,3 +10,4 @@ server/node_modules
 .ssh
 .viminfo
 .wget-hsts
+.bash_history
