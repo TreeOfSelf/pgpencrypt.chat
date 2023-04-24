@@ -1,0 +1,12 @@
+server/node_modules
+.vscode-server
+.pm2
+.npm
+.cache
+.config
+.local
+/server/cert.pem
+/server/privkey.pem
+.ssh
+.viminfo
+.wget-hsts

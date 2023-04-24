@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "openpgp": "^5.5.0",
+    "serverline": "^1.6.0",
+    "ws": "^8.12.0"
+  }
+}
