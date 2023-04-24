@@ -1,2 +1,5 @@
 [safe]
 	directory = /home/pgpencrypt
+[user]
+	email = sebastian97@gmail.com
+	name = TreeOfSelf
