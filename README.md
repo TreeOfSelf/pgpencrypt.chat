@@ -15,7 +15,7 @@ Try it live: https://pgpencrypt.chat
 - Draw on the whiteboard with any color and multiple brush sizes
 - Transfer files securely 
 - Chat securely
-
+- Emoji hash, easily spot out impersonators 
 
 ## Deployment
 
