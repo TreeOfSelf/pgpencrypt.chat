@@ -30,7 +30,7 @@ Otherwise just host the client through any web server.
 
 ## Screenshot
 
-![image](https://github.com/TreeOfSelf/pgpencrypt.chat/assets/53889485/8100735a-8695-4ae0-bbca-b20f7321c038)
+![image](https://hardcoreanarchy.gay/images/pgp.png)
 
 
 
