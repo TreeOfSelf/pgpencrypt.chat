@@ -30,7 +30,8 @@ Otherwise just host the client through any web server.
 
 ## Screenshot
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1070456465875275887/1099157253250093158/image.png)
+![image](https://github.com/TreeOfSelf/pgpencrypt.chat/assets/53889485/8100735a-8695-4ae0-bbca-b20f7321c038)
+
 
 
 ## Credits
