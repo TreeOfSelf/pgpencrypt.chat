@@ -30,7 +30,7 @@ Otherwise just host the client through any web server.
 
 ## Screenshot
 
-![image](https://hardcoreanarchy.gay/images/pgp.png)
+![image](https://sebastiancodes.online/github/pgp.png)
 
 
 
