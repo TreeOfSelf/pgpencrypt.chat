@@ -3,7 +3,7 @@
 
 PGPencrypt.chat is an OpenPGP.js implementation in chat room setting. It allows multiple people to connect, chat, draw on a whiteboard, and transfer files all through PGP encryption.
 
-Try it live: https://pgpencrypt.chat
+Try it live: https://pgp.hangout.cam
 
 
 ## Features
