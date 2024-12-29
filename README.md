@@ -27,7 +27,6 @@ If  you plan on hosting your own server, run the server in node.js after install
 
 Otherwise just host the client through any web server. 
 
-
 ## Screenshot
 
 ![image](https://sebastiancodes.online/github/pgp.png)
